@@ -4,7 +4,7 @@
 Desenvolvedor fullstack apaixonado por tecnologia e inovação.
 
 ## 💼 Portfolio
-🌐 [**Acesse meu portfolio completo**](https://miguel-huke.github.io/huke-corp)
+🌐 [**Acesse meu portfolio completo**](https://miguel-huke.github.io/hukecorp)
 
 ## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
